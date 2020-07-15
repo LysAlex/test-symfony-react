@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+api-ideas:
+    path: /api/ideas
+    controller: App\Controller\IdeasController::list
